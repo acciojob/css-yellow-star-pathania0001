@@ -1,4 +1,9 @@
 /*  your css code here. If applicable */
+.star{
+ width:200px;
+	height:200;
+	position:relative;
+}
 .triangle{
 	width:0px;
 	height:0px;
